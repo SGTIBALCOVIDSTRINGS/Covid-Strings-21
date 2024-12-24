@@ -31,7 +31,7 @@ public actionperformed(actionevent e)
 color m=jcolorchooser.showdialog(funwithgraphics.this)
 if(multi!=null)
 color panel set.background(multi)
-This.Add(ButtonPanel,borderlayout.south)
+this.add(buttonpanel,borderlayout.south)
 public static main(string [] args){
 jframe f = new covid strings21()
 f.set title(covid strings21)
@@ -58,31 +58,31 @@ frame.add(next button);
 frame set visible true
 object {a:one,b:two,c:three,d:four,e:five,f:six,g:seven,h:eight}
 keys object(team)
-Entries Object Entries(Obj);
-Value Object [Team Color]
-CovidstringsTeam List21=[Orange,Turquoise,Green,Burgundy,Red,Indigo,Magenta,Yellow]
-Covid Strings Phrase List21=[Non-ConcatenatedWhile Fluifying Covid May Be Abhorrent Keeping Everything The Same Also Doesnt Make Sense
-That Said Testing For Viruses As A Whole Can Be Expanded
-Another New Habit Can Involve Older Adults Getting An Extra Covid Shot
-Mirai Does Not Mean Covid Miracle
-In Terms Of Covid News There May Be As Many If Not More Languages Than Trump Claims Americans Understand From Immigrants To Fully Understand 
-Light At The End Of The Tunnel Is Not Just For Angels To Fly
-This Excludes Recent CDC Guidance Saying That You No Longer Need5 Days Of Isolation If Infected
-This Includes Clinical Trials For Long Covid
-Concatenated
-It+Is+Also+Important+To+Know+That+Vaccine+Myths+Still+Need+To+Be+Exposed+As+Such
-For+Example+The+Belief+That+Vaccines+Impact+Fertility+Is+False
-The+Belief+That+Microchips+Can+Be+Implanted+By+Bill+Gates+Also+False
-It+Should+Be+Especially+Easy+To+Know+Covid+Cant+Spread+On+5G
-Saying+It+Does+Creates+A+More+Dangerous+Virus
-Neither+Alcohol+Nor+Chlorine+Are+Effective+Treatments
-You+Might+Actually+Blame+More+Severe+Covid+On+The+Alcohol
-Even+Though+You+Shouldnt+Take+Chlroine+For+Treatment+Chlorine+Dioxide+May+Work+On+Surfaces]
-Covid Strings21MathProblemsList=[If A Poll Found That32 Percent Of Americans Believe That5g Towers Through Huawei Are A Side Effect Of Taking The Covid Vaccine What Percent Dont?, If26 Percent Mildly Believe What Percent Strongly Believe?, If The Margin Of Error 2.0185Percent What Is The Range?,If The Term Jumbos Was Presented To535 Americans If79 Percent Believe It Means Jumbo Vaccines How Many Dont?,If 75 Percent Strongly Believe It Means Jumbo Vaccines What Percent Is Mild?,If The Margin Of Error Is .775 Percent What Is The Range?if+a+study+found+that+nasal+vaccines+were+75+percent+more+likely+to+be+effective+at+preventing+severe+covid+than+the+current+generation+of+vaccines+which+only+work+50+percent+of+the+time+what+is+the+difference?  
-,If+The+CDC+Says+There+Will+Be+A+Shipment+Of+200,000+Vaccines+Coming+If+The+Ratio+Is+1+To+20+How+Many+Of+Each+Vaccine+Is+There?,If+43+Percent+Agree+With+New+CDC+Guidance+On+Not+Needing+5+Days+Of+Isolation+How+Many+Disagree?,If+33+Percent+Strongly+Agree+What+Percent+Is+Mild?,If+The+Margin+Of+Error+Is+10.5+Percent+What+Is+The+Range?]
-covid strings21multiplechoicelist=[1:a mexicans b  martians c languages d  moochers,2:a half-truths b cold cases c myths d models made by mullen,3:a covid b rsv c the pontiac g8 concept d callum motors,4:a bacteria resistant to antibiotics b fertility c an american suzuki jimny D A New Nissan Murano,5:A Viruses B Why Neil Gorsuch Overturned His Mothers Victory C Nyobolt D A New Ford Capri,6:A3g B2g C4g D5g ,6:A Social Security Check B Reminder About Why EVs Are Safe C Window Clings D Covid Shot,7:A Jack Dorsey B Mark Zuckerberg C Bill Gates D Kash Patel,
-8:A Mirai B Clarity C Freestyle D Million Dollar Baby,9:A Myth B Twitter Livestream C Virus D Chan For White Supremacists,10:A Starships B Vampire Bats C Angels D Airships,11:A12 Days B5 Days C101 Days D9 Days,12:A NATOs Trump Whisperer B Wegovy C Long Covid D The Last Pontiac Ever Made,13:A Chlorine B A Bubble Bath C Windex D Communism Being The Right Thing In America,14:A Booze B PEDs Given To Joe Biden C BRICS D Alcohol,
-15:A Monoxide B Dioxide C Trioxide D Quadrivalent,16:A The First Women President B Vladimir Putin  C Putin And His Head Investigator Feuding D Lauren Daegals Light Of The World]
+entries object entries(obj);
+value object [team color]
+covidstringsteam list21=[orange,turquoise,green,burgundy,red,indigo,magenta,yellow]
+covid strings phrase list21=[non-concatenated while fluifying covid may be abhorrent keeping everything the same also doesnt make sense
+that said testing for viruses as a whole can be expanded
+another new habit can involve older adults getting an extra covid shot
+mirai does not mean covid miracle
+in terms of covid news there may be as many if not more languages than trump claims americans understand from immigrants to fully understand 
+light at the end of the tunnel is not just for angels to fly
+this excludes recent cdc guidance saying that you no longer Need5 days of isolation if infected
+this includes clinical trials for long covid
+concatenated
+it+is+also+important+to+know+that+vaccine+myths+still+need+to+be+exposed+as+such
+for+example+the+belief+that+vaccines+impact+fertility+is+false
+the+belief+that+microchips+can+be+implanted+by+bill+gates+also+false
+it+should+be+especially+easy+to+know+covid+cant+spread+on+5G
+saying+it+does+creates+a+more+dangerous+virus
+neither+alcohol+nor+chlorine+are+effective+treatments
+you+might+actually+blame+more+severe+covid+on+the+alcohol
+even+though+you+shouldnt+take+chlroine+for+treatment+chlorine+dioxide+may+work+on+surfaces]
+covidstrings21mathproblemslist=[if a poll found that32 percent of americans believe that5g towers through huawei are a side effect of taking the covid vaccine what percent dont?, if26 percent mildly believe what percent strongly believe?, if the margin of error 2.0185percent what is the range?,if the term jumbos was presented to535 americans if79 percent believe it means jumbo vaccines how many dont?,if 75 percent strongly believe it means jumbo vaccines what percent is mild?,if the margin of error is .775 percent what is the range?if+a+study+found+that+nasal+vaccines+were+75+percent+more+likely+to+be+effective+at+preventing+severe+covid+than+the+current+generation+of+vaccines+which+only+work+50+percent+of+the+time+what+is+the+difference?  
+,if+the+cdc+says+there+will+be+a+shipment+of+200,000+vaccines+coming+if+the+ratio+is+1+to+20+how+many+of+each+vaccine+is+there?,if+43+percent+agree+with+new+cdc+guidance+on+not+needing+5+days+of+isolation+how+many+disagree?,if+33+percent+strongly+agree+what+percent+is+mild?,if+the+margin+of+error+is+10.5+percent+what+is+the+range?]
+covid strings21multiplechoicelist=[1:a mexicans b  martians c languages d  moochers,2:a half-truths b cold cases c myths d models made by mullen,3:a covid b rsv c the pontiac g8 concept d callum motors,4:a bacteria resistant to antibiotics b fertility c an american suzuki jimny d a new nissan murano,5:a viruses b why neil gorsuch overturned his mothers victory c nyobolt d a new ford capri,6:a3g b2g c4g d5g ,6:a social security check b reminder about why evs are safe c window clings d covid shot,7:a jack dorsey b mark zuckerberg c bill gates d kash patel,
+8:a mirai b clarity c freestyle d million dollar baby,9:a myth b twitter livestream c virus d chan for white supremacists,10:a starships b vampire bats c angels d airships,11:a12 days b5 days c101 days d9 days,12:a natos trump whisperer b wegovy c long covid d the last pontiac ever made,13:a chlorine b a bubble bath c windex d communism being the right thing in america,14:a booze b peds given to joe biden c brics d alcohol,
+15:a monoxide b dioxide c trioxide d quadrivalent,16:a the first women president b vladimir putin c putin and his head investigator feuding d lauren daegals light of the world]
 covid strings21 sentence =[covid would be even less of a miracle than putin and his head investigator feuding]
 covid strings scrambled phraselist21=[noires deen ratxe ovicd tosh,5+yads+fo+naltionsoi,afke+lilb+tages+croimhip]
 userin.select team
