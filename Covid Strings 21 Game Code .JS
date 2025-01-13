@@ -1,22 +1,22 @@
 doc.type.html
 script
-filename=covidstrings21gamecode.js
-java.awt graphics 
 this.img=document.createelement(covid)
 img.src=http://www.google.com/intl/en_com/images/logo_plain.png
 src=documentgetelementbyid(header)
 src.appendchild(this.img)
+filename=covidstrings21gamecode.js
+java.awt graphics 
 <div id=header></div>
 audio=new audio (audio_file mp3)
 audio.play 
-jbutton random button
+random button
 new jbutton (set random color)
 private final j button option button=
-new j button (change color)
+new  button (change color)
 public fun with graphics(){
-jpanel color panel=new j panel();
-this add (panel,center )
-jpanel button panel=
+color panel=new j panel();
+add (panel,center )
+button panel
 new j panel (flowlayout.center)
 buttonpanel.add(randombutton);
 random.button add actionlistener(new action listener)
@@ -58,7 +58,7 @@ score+=twenty
 else:
 score-=twenty
 lblscore=document.getelementbyid(lblscore)
-lbl.score.innerHTML=score
+lbl.score.inner html=score
 public actionperformed(action event e) 
 system.out print.in (next button clicked)
 frame.add(next button);
@@ -67,31 +67,32 @@ object {a:one,b:two,c:three,d:four,e:five,f:six,g:seven,h:eight}
 keys object(team)
 entries object entries(obj);
 value object [team color]
-covidstringsteam list21=[orange,turquoise,green,burgundy,red,indigo,magenta,yellow]
-covid strings phrase list21=[non-concatenated while fluifying covid may be abhorrent keeping everything the same also doesnt make sense
-that said testing for viruses as a whole can be expanded
-another new habit can involve older adults getting an extra covid shot
-mirai does not mean covid miracle
-in terms of covid news there may be as many if not more languages than trump claims americans understand from immigrants to fully understand 
-light at the end of the tunnel is not just for angels to fly
-this excludes recent cdc guidance saying that you no longer Need5 days of isolation if infected
-this includes clinical trials for long covid
-concatenated
-it+is+also+important+to+know+that+vaccine+myths+still+need+to+be+exposed+as+such
-for+example+the+belief+that+vaccines+impact+fertility+is+false
-the+belief+that+microchips+can+be+implanted+by+bill+gates+also+false
-it+should+be+especially+easy+to+know+covid+cant+spread+on+5G
-saying+it+does+creates+a+more+dangerous+virus
-neither+alcohol+nor+chlorine+are+effective+treatments
-you+might+actually+blame+more+severe+covid+on+the+alcohol
-even+though+you+shouldnt+take+chlroine+for+treatment+chlorine+dioxide+may+work+on+surfaces]
-covidstrings21mathproblemslist=[if a poll found that32 percent of americans believe that5g towers through huawei are a side effect of taking the covid vaccine what percent dont?, if26 percent mildly believe what percent strongly believe?, if the margin of error 2.0185percent what is the range?,if the term jumbos was presented to535 americans if79 percent believe it means jumbo vaccines how many dont?,if 75 percent strongly believe it means jumbo vaccines what percent is mild?,if the margin of error is .775 percent what is the range?if+a+study+found+that+nasal+vaccines+were+75+percent+more+likely+to+be+effective+at+preventing+severe+covid+than+the+current+generation+of+vaccines+which+only+work+50+percent+of+the+time+what+is+the+difference?  
-,if+the+cdc+says+there+will+be+a+shipment+of+200,000+vaccines+coming+if+the+ratio+is+1+to+20+how+many+of+each+vaccine+is+there?,if+43+percent+agree+with+new+cdc+guidance+on+not+needing+5+days+of+isolation+how+many+disagree?,if+33+percent+strongly+agree+what+percent+is+mild?,if+the+margin+of+error+is+10.5+percent+what+is+the+range?]
+covidstringsteam list21=[orange rna messengers ,turquoise waves ,green peacemakers,burgundy rebuilders ,red protein spikers ,indigo isos,magenta magnetizers ,yellow moxie]
+covid strings phrase list21=[non-concatenated strings "while fluifying covid may be abhorrent keeping everything the same also doesnt make sense"
+"that said testing for viruses as a whole can be expanded"
+"another new habit can involve older adults getting an extra covid shot"
+"mirai does not mean covid miracle"
+"in terms of covid news there may be as many if not more languages than trump claims americans understand from immigrants to fully understand"
+"light at the end of the tunnel is not just for angels to fly"
+"this excludes recent cdc guidance saying that you no longer need5 days of isolation if infected"
+"this includes clinical trials for long covid"
+concatenated strings
+"it"+"is"+"also"+"important"+"to"+"know"+"that"+"vaccine"+"myths"+"still"+"need"+"to"+"be"+"exposed"+"as"+"such"
+"for"+"example"+"the"+"belief"+"that"+"vaccines"+"impact"+"fertility"+"is"+"false"
+"the"+"belief"+"that"+"microchips"+"can"+"be"+"implanted"+"by"+"bill"+"gates"+"also"+"false"
+"it"+"should"+"be"+"especially"+"easy"+"to"+"know"+"covid"+"cant"+"spread"+"on"+"5G"
+"saying"+"it"+"does"+"creates"+"a"+"more"+"dangerous"+"virus"
+"neither"+"alcohol"+"nor"+"chlorine"+"are"+"effective"+"treatments"
+"you"+"might"+"actually"+"blame"+"more"+"severe"+"covid"+"on"+"the"+"alcohol"
+"even"+"though"+"you"+"shouldnt"+"take"+"chlorine"+"for"+"treatment"+"chlorine"+"dioxide"+"may"+"work"+"on"+"surfaces"]
+covidstrings21mathproblemslist=[ non-concatenated "if a poll found that32 percent of americans believe that5g towers through huawei are a side effect of taking the covid vaccine what percent dont"?,"if26 percent mildly believe what percent strongly believe"?,"if the margin of error 2.0185percent what is the range"?,"if the term jumbos was presented to535 americans if79 percent believe it means jumbo vaccines how many dont"?,"if 75 percent strongly believe it means jumbo vaccines what percent is mild?,if the margin of error is .775 percent what is the range"?
+concatenated "if"+"a"+"study"+"found"+"that"+"nasal"+"vaccines"+"were"+"75"+"percent"+"more"+"likely"+"to"+"be"+"effective"+"at"+"preventing"+"severe"+"covid"+"than"+"the"+"current"+"generation"+"of"+"vaccines"+"which"+"only"+"work"+"50"+"percent"+"of"+"the"+"time"+"what"+"is"+"the"+"difference"?  
+,"if"+"the"+"cdc"+"says"+"there"+"will"+"be"+"a"+"shipment"+"of"+"200,000"+"vaccines"+"coming"+"if"+"the"+"ratio"+"is"+"1"+"to"+"20"+"how"+"many"+"of"+"each"+"vaccine"+"is"+"there"?,"if"+"43"+"percent"+"agree"+"with"+"new"+"cdc"+"guidance"+"on"+"not"+"needing"+"5"+"days"+"of"+"isolation"+"how"+"many"+"disagree"?,"if"+"33"+"percent"+"strongly"+"agree"+"what"+"percent"+"is"+"mild"?,"if"+"the"+"margin"+"of"+"error"+"is"+"10.5"+"percent"+"what"+"is"+"the"+"range"?]
 covid strings21multiplechoicelist=[1:a mexicans b  martians c languages d  moochers,2:a half-truths b cold cases c myths d models made by mullen,3:a covid b rsv c the pontiac g8 concept d callum motors,4:a bacteria resistant to antibiotics b fertility c an american suzuki jimny d a new nissan murano,5:a viruses b why neil gorsuch overturned his mothers victory c nyobolt d a new ford capri,6:a3g b2g c4g d5g ,6:a social security check b reminder about why evs are safe c window clings d covid shot,7:a jack dorsey b mark zuckerberg c bill gates d kash patel,
 8:a mirai b clarity c freestyle d million dollar baby,9:a myth b twitter livestream c virus d chan for white supremacists,10:a starships b vampire bats c angels d airships,11:a12 days b5 days c101 days d9 days,12:a natos trump whisperer b wegovy c long covid d the last pontiac ever made,13:a chlorine b a bubble bath c windex d communism being the right thing in america,14:a booze b peds given to joe biden c brics d alcohol,
 15:a monoxide b dioxide c trioxide d quadrivalent,16:a the first women president b vladimir putin c putin and his head investigator feuding d lauren daegals light of the world]
-covid strings21 sentence =[covid would be even less of a miracle than putin and his head investigator feuding]
-covid strings scrambled phraselist21=[noires deen ratxe ovicd tosh,5+yads+fo+naltionsoi,afke+lilb+tages+croimhip]
+covid strings21 sentence =["covid would be even less of a miracle than putin and his head investigator feuding"]
+covid strings scrambled phraselist21=["noires deen ratxe ovicd tosh","5"+"yads"+"fo"+"naltionsoi","afke"+"lilb"+"tages"+"croimhip"]
 userin.select team
 import meta.
 class myclass
@@ -160,7 +161,7 @@ answer checker
 scanner=new scanner(system.in)
 string correct answer
 string useranswer=scanner.nextline()
-if useranswer.equals((correctanswer))
+if useranswer.equals(correctanswer)
 system.out.print.in(correct)
 else:
 system.out.printin(incorrect)
@@ -170,6 +171,10 @@ if winner==true:
 log(the winner is)
 if winner==false:
 log(no winner yet) 
+if users team wins covid strings21 
+console log users team wins covid strings21 
+else
+return game over
 return filename
 
 
