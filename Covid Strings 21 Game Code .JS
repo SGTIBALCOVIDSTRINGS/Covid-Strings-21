@@ -10,14 +10,14 @@ java.awt graphics
 audio=new audio (audio_file mp3)
 audio.play 
 random button
-new jbutton (set random color)
-private final j button option button=
+new button (set random color)
+option button
 new  button (change color)
 public fun with graphics(){
 color panel=new j panel();
 add (panel,center )
 button panel
-new j panel (flowlayout.center)
+new panel (flowlayout.center)
 buttonpanel.add(randombutton);
 random.button add actionlistener(new action listener)
 override 
