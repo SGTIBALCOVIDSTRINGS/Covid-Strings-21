@@ -60,7 +60,6 @@ return true
 else:
 return false
 advancingteam=slice(current teams)
-declarewinner
 result=declarewinner(team1 score, team2 score)
 if turquoise score>=forty:
 console.log(turquoise waves win)
