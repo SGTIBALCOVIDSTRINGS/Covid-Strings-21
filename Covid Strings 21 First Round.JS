@@ -5,6 +5,12 @@ head
 utf8
 viewportcontent=width=device-width,initial-scale=one
 title covid strings21 first round bracket
+link rel= stylesheet href=css
+head
+body
+bracket-container{}
+matchup
+solid zero;
 filename=covid strings21 first round.js
 first round=(highest overall seed ,second highest seed third highest seed first middle seed, second middle seed,  third lowest seed ,second lowest seed,lowest overall seed)
 highest overall seed =seed1
