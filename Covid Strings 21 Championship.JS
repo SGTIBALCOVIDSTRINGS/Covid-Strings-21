@@ -4,13 +4,15 @@ html
 head
 utf-eight
 viewport content=width=device-width,inital scale one
- title covid strings21 championship round bracket
+title covid strings21 championship round bracket
 link rel= stylesheet href= css
 head
 body
-div id=bracket-container ></div>
-body
-html
+bracket-container {}
+matchup
+solid zero;
+padding 
+text align center 
 filename=covid strings21 championship.js
 championship game=(highest and lowest remaining seeds ) 
 team low seed = lowest remaining seed
