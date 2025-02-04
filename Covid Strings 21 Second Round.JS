@@ -19,7 +19,7 @@ filename=covid strings21 secondround.js
 highest remaining seed=(greatest remaining num value in covid strings list)
 lowest remaining seed = (lowest remaining num value in covid strings list)
 intermediate seed1=(first middle remaining value in covid strings list)
-intermediate seed2=(second middle remaining value in covid strings list))
+intermediate seed2=(second middle remaining value in covid strings list)
 round =createelement(div);
 createround =covid strings21 second round 
 round.classlist.add(round);
